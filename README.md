@@ -9,11 +9,22 @@ Welcome to **My First Game**! 🎉 This is my first game, built using **C++** an
 🔹 **Font Rendering:** SDL3_ttf-3.2.0 🔡  
 🔹 **JSON Parsing:** nlohmann/json 📄  
 
+## 📥 Download Dependencies  
+
+Before running the game, make sure you have the required libraries installed. You can download them here:  
+
+- **SDL3**: [Download](https://github.com/libsdl-org/SDL/releases)  
+- **SDL3_image**: [Download](https://github.com/libsdl-org/SDL_image/releases)  
+- **SDL3_ttf**: [Download](https://github.com/libsdl-org/SDL_ttf/releases)  
+- **nlohmann/json** (for JSON parsing): [Download](https://github.com/nlohmann/json/releases)  
+
+💡 After downloading, make sure to link them properly in your project! 🚀  
+
 ## 💡 About the Project  
 This game was developed by a **self-taught programmer** who hasn't undergone formal training. 🏗️  
 Due to this, the code **may not be fully optimized** and could have some bugs. 🐛  
 
-I truly appreciate your **support and contributions** in improving it further! 😊 
+I truly appreciate your **support and contributions** in improving it further! 😊  
 
 ## 📬 Contact  
 📌 **Facebook:** [Click here](https://www.facebook.com/profile.php?id=61572974901522)  
@@ -32,6 +43,17 @@ Chào mừng bạn đến với **Trò chơi đầu tiên của tôi**! 🎉 Đ�
 🔹 **Xử lý hình ảnh:** SDL3_image-3.2.4 🖼  
 🔹 **Kết xuất font chữ:** SDL3_ttf-3.2.0 🔡  
 🔹 **Đọc tệp JSON:** nlohmann/json 📄  
+
+## 📥 Tải Thư Viện Ngoài  
+
+Trước khi chạy game, hãy đảm bảo bạn đã cài đặt các thư viện cần thiết. Bạn có thể tải chúng tại đây:  
+
+- **SDL3**: [Tải về](https://github.com/libsdl-org/SDL/releases)  
+- **SDL3_image**: [Tải về](https://github.com/libsdl-org/SDL_image/releases)  
+- **SDL3_ttf**: [Tải về](https://github.com/libsdl-org/SDL_ttf/releases)  
+- **nlohmann/json** (dùng để đọc JSON): [Tải về](https://github.com/nlohmann/json/releases)  
+
+💡 Sau khi tải, hãy liên kết chúng đúng cách trong dự án của bạn! 🚀  
 
 ## 💡 Giới Thiệu Về Dự Án  
 Trò chơi này được phát triển bởi một **lập trình viên tự học**, chưa qua đào tạo bài bản. 🏗️  
