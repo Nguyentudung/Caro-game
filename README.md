@@ -20,6 +20,12 @@ Before running the game, make sure you have the required libraries installed. Yo
 
 💡 After downloading, make sure to link them properly in your project! 🚀  
 
+## 📜 Font License  
+
+This project uses the **Pacifico font**, which is licensed under the **SIL Open Font License (OFL) 1.1**.  
+For more details, see the [OFL.txt](./OFL.txt) file or visit:  
+🔗 [SIL Open Font License](https://openfontlicense.org)  
+
 ## 💡 About the Project  
 This game was developed by a **self-taught programmer** who hasn't undergone formal training. 🏗️  
 Due to this, the code **may not be fully optimized** and could have some bugs. 🐛  
@@ -54,6 +60,12 @@ Trước khi chạy game, hãy đảm bảo bạn đã cài đặt các thư vi�
 - **nlohmann/json** (dùng để đọc JSON): [Tải về](https://github.com/nlohmann/json/releases)  
 
 💡 Sau khi tải, hãy liên kết chúng đúng cách trong dự án của bạn! 🚀  
+
+## 📜 Giấy Phép Font  
+
+Dự án này sử dụng font **Pacifico**, được cấp phép theo **SIL Open Font License (OFL) 1.1**.  
+Để biết thêm chi tiết, xem file [OFL.txt](./OFL.txt) hoặc truy cập:  
+🔗 [SIL Open Font License](https://openfontlicense.org)  
 
 ## 💡 Giới Thiệu Về Dự Án  
 Trò chơi này được phát triển bởi một **lập trình viên tự học**, chưa qua đào tạo bài bản. 🏗️  
