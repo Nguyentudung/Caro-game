@@ -1,6 +1,6 @@
-📜 GNU General Public License v3.0 (GPL-3.0) – Non-Commercial
+📜 GNU General Public License v3.0 (GPL-3.0) – Non-Commercial + Attribution
 Copyright (c) 2025 Nguyen Tu Dung
-This software is licensed under the GNU General Public License v3.0 (GPL-3.0) – Non-Commercial.
+This software is licensed under the GNU General Public License v3.0 (GPL-3.0) – Non-Commercial + Attribution.
 
 🔹 You are free to:
 ✔ Use the software for any non-commercial purpose.
@@ -10,19 +10,19 @@ This software is licensed under the GNU General Public License v3.0 (GPL-3.0) �
 
 🔸 Under the following conditions:
 ✔ No commercial use is allowed under any circumstances.
-✔ All redistributed versions (original or modified) must also be licensed under GPL-3.0 – Non-Commercial.
+✔ All redistributed versions (original or modified) must also be licensed under GPL-3.0 – Non-Commercial + Attribution.
 ✔ The source code must be made available when distributing the software.
-✔ Credit must be given to the original author.
+✔ You must give credit to the original author by including the following notice in any redistributed version:
+
+"This software is based on the work of Nguyen Tu Dung."
 ✔ No warranty is provided (distributed "as is").
 
 Read the full GPL-3.0 license here:
 🔗 https://www.gnu.org/licenses/gpl-3.0.html
 
-|-------------------------------------------------------------------------------------------------------------|
-
-📜 Giấy phép GNU General Public License v3.0 (GPL-3.0) – Phi thương mại
+📜 Giấy phép GNU General Public License v3.0 (GPL-3.0) – Phi thương mại + Ghi công
 BẢN QUYỀN (c) 2025 Nguyễn Tư Dũng
-Phần mềm này được cấp phép theo Giấy phép Công cộng GNU phiên bản 3.0 (GPL-3.0) – Phi thương mại.
+Phần mềm này được cấp phép theo Giấy phép Công cộng GNU phiên bản 3.0 (GPL-3.0) – Phi thương mại + Ghi công.
 
 🔹 Bạn được quyền:
 ✔ Sử dụng phần mềm cho bất kỳ mục đích phi thương mại nào.
@@ -32,9 +32,11 @@ Phần mềm này được cấp phép theo Giấy phép Công cộng GNU phiên
 
 🔸 Nhưng với điều kiện:
 ✔ Không được sử dụng phần mềm này cho mục đích thương mại dưới mọi hình thức.
-✔ Mọi phiên bản phân phối lại (gốc hoặc chỉnh sửa) cũng phải được cấp phép theo GPL-3.0 – Phi thương mại.
+✔ Mọi phiên bản phân phối lại (gốc hoặc chỉnh sửa) cũng phải được cấp phép theo GPL-3.0 – Phi thương mại + Ghi công.
 ✔ Phải công khai mã nguồn khi phân phối phần mềm.
-✔ Ghi công tác giả ban đầu.
+✔ Bắt buộc ghi công tác giả ban đầu bằng cách bao gồm thông báo sau trong bất kỳ phiên bản phân phối lại nào:
+
+"Phần mềm này dựa trên công trình của Nguyễn Tư Dũng."
 ✔ Không có bảo đảm pháp lý nào đi kèm phần mềm (phát hành "nguyên trạng").
 
 Bạn có thể xem toàn bộ giấy phép tại:
